@@ -2,7 +2,7 @@
 Type=Application
 Name=Gati Clicker
 Comment=¡Tienes que clickear al gatito!
-Exec=gati-clicker
+Exec=gati-clicker-1.0
 Icon=gati-clicker
 Terminal=false
 Categories=Game;ArcadeGame;
