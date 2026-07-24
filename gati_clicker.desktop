@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gati Clicker
+Comment=¡Tienes que clickear al gatito!
+Exec=gati-clicker
+Icon=gati-clicker
+Terminal=false
+Categories=Game;ArcadeGame;
+StartupNotify=true
