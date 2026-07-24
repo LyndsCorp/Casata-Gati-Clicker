@@ -1,0 +1,9 @@
+{
+  "name": "gati-clicker-1.0",
+  "version": "1.0",
+  "apt": ["python3", "python3-tk"],
+  "pip": [],
+  "size": "7,5 KiB",
+  "description": "Videojuego que trata en clickear a la gati y consigues puntos y compras mejoras.",
+  "usage": "Abre la aplicación en el lanzador de aplicaciones."
+}
