@@ -8,7 +8,7 @@
     },
     {
       "file": "gati.png",
-      "dest": "/usr/share/icons/hicolor/512x512/apps",
+      "dest": "/usr/share/icons/hicolor/128x128/apps",
       "name": "gati-clicker.png"
     },
     {
