@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "file": "gati-clicker.py",
+      "dest": "/usr/bin",
+      "name": "gati-clicker",
+      "executable": true
+    },
+    {
+      "file": "gati.png",
+      "dest": "/usr/share/icons/hicolor/512x512/apps",
+      "name": "gati-clicker.png"
+    },
+    {
+      "file": "gati_clicker.desktop",
+      "dest": "/usr/share/applications",
+      "name": "gati_clicker.desktop"
+    }
+  ]
+}
