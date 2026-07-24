@@ -3,7 +3,7 @@
     {
       "file": "gati-clicker.py",
       "dest": "/usr/bin",
-      "name": "gati-clicker",
+      "name": "gati-clicker-1.0",
       "executable": true
     },
     {
