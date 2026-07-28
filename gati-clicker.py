@@ -82,7 +82,7 @@ def guardar():
 # ----------------------------
 # Ventana principal
 # ----------------------------
-ventana = tk.Tk()
+ventana = tk.Tk(className="gati-clicker")
 ventana.title("Gati Clicker 🐱")
 ventana.geometry("1000x1000")
 
