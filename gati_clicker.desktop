@@ -7,3 +7,4 @@ Icon=gati-clicker
 Terminal=false
 Categories=Game;ArcadeGame;
 StartupNotify=true
+StartupWMClass=gati-clicker
