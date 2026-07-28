@@ -7,7 +7,7 @@
       "executable": true
     },
     {
-      "file": "gati.png",
+      "file": "gati-clicker.png",
       "dest": "/usr/share/icons/hicolor/128x128/apps",
       "name": "gati-clicker.png"
     },
