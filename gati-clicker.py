@@ -86,6 +86,9 @@ ventana = tk.Tk()
 ventana.title("Gati Clicker 🐱")
 ventana.geometry("1000x1000")
 
+icono = tk.PhotoImage(file="/usr/share/icons/hicolor/128x128/apps/gati-clicker.png")
+ventana.iconphoto(True, icono)
+
 puntos, skin_actual, skins_desbloqueadas, fondo_actual, fondos_desbloqueados = cargar_datos()
 
 pantalla_completa = False
